@@ -1,0 +1,2 @@
+"0","whisky <- read.delim(""data_input/whiskies.txt"", sep="","")"
+"0","head(whisky)"

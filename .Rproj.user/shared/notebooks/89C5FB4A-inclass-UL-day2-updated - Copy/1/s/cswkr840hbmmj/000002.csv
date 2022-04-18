@@ -1,0 +1,5 @@
+"0","# create reconstructed data"
+"0","face_recon <- reconst(face_pca, ncp = 2)"
+"0","face_recon2 <- reconst(face_pca, ncp = 4)"
+"0","face_recon3 <- reconst(face_pca, ncp = 6)"
+"0","face_recon4 <- reconst(face_pca, ncp = 32) # mengambil semua PC"

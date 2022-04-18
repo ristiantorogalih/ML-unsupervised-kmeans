@@ -1,0 +1,2 @@
+"0","loan_clean <- loan %>% "
+"0","  mutate_at(.vars = c(""not_paid"", ""grdCtoA"", ""verified""), as.factor)"

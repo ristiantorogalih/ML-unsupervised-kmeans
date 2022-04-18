@@ -1,0 +1,3 @@
+"0","property_clean %>% "
+"0","  select_if(purrr::negate(is.numeric)) %>% # ambil kolom selain numeric"
+"0","  cbind(pc_keep) # gabungkan dengan PC1 - PC4"

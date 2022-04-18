@@ -1,0 +1,3 @@
+"0","# scaling"
+"0","ppt_z <- scale(ppt)"
+"0","head(ppt)"

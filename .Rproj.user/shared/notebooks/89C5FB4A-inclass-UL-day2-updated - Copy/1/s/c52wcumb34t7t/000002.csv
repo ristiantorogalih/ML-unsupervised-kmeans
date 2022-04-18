@@ -1,0 +1,2 @@
+"0","# memasukkan data yang belum discaling ke dalam fungsi prcomp, dan tambahkan scale =T"
+"0","pca <- prcomp(ppt, scale = T)"

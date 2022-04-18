@@ -1,0 +1,4 @@
+"0","# data awal (coba bandingkan dengan hasil reconstruct di atas)"
+"0","loan_clean %>% "
+"0","  select_if(is.numeric) %>% "
+"0","  head(3)"

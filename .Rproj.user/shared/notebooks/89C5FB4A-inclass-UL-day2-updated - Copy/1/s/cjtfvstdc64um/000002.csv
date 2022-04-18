@@ -1,0 +1,5 @@
+"0","# data untuk PCA"
+"0","ppt <- property_clean %>% "
+"0","  select_if(is.numeric)"
+"0","  "
+"0","head(ppt)"

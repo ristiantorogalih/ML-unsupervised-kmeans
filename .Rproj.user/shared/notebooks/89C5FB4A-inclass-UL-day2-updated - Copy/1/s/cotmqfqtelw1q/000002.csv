@@ -1,0 +1,4 @@
+"0","# optional: untuk memvalidasi insight"
+"0","ppt_300 %>% "
+"0","  mutate(id = 1:300) %>% "
+"0","  arrange(-SALE.PRICE)"

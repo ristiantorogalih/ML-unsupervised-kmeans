@@ -1,0 +1,8 @@
+"0","# membuat data dummy"
+"0","RNGkind(sample.kind = ""Rounding"")"
+"0","set.seed(100)"
+"0",""
+"0","x <- runif(200) # buat data random dengan distribusi normal"
+"0","data <- data.frame(x=x, y=-x+runif(100, 1.05, 1.25)) # buat data frame"
+"0","data <- scale(data) # agar skala antar variable sama"
+"0","plot(data)"

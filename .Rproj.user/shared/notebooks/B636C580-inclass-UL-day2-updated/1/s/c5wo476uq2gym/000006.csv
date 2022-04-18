@@ -1,0 +1,32 @@
+"0","glimpse(property_clean)"
+"1","Rows: 48,244"
+"1",""
+"1","
+"
+"1","Columns: 20"
+"1",""
+"1","
+"
+"1","$ BOROUGH                        [3m[38;5;246m<fct>[39m[23m 1, 1, 1, 1, 1, 1, 1, 1, 1, ~
+$ NEIGHBORHOOD                   [3m[38;5;246m<fct>[39m[23m ALPHABET CITY, ALPHABET CIT~
+$ BUILDING.CLASS.CATEGORY        [3m[38;5;246m<fct>[39m[23m 07 RENTALS - WALKUP APARTME~
+$ TAX.CLASS.AT.PRESENT           [3m[38;5;246m<fct>[39m[23m 2A, 2B, 2A, 2B, 2, 2B, 2, 2~
+$ BLOCK                          [3m[38;5;246m<fct>[39m[23m 392, 402, 404, 406, 387, 40~
+$ LOT                            [3m[38;5;246m<fct>[39m[23m 6, 21, 55, 32, 153, 21, 14,~
+$ BUILDING.CLASS.AT.PRESENT      [3m[38;5;246m<fct>[39m[23m C2, C4, C2, C4, D9, D1, C6,~
+$ ADDRESS                        [3m[38;5;246m<chr>[39m[23m ""153 AVENUE B"", ""154 EAST 7~
+$ APARTMENT.NUMBER               [3m[38;5;246m<chr>[39m[23m "" "", "" "", "" "", "" "", "" "", "" ~
+$ ZIP.CODE                       [3m[38;5;246m<fct>[39m[23m 10009, 10009, 10009, 10009,~
+$ RESIDENTIAL.UNITS              [3m[38;5;246m<int>[39m[23m 5, 10, 6, 8, 24, 10, 24, 3,~
+$ COMMERCIAL.UNITS               [3m[38;5;246m<int>[39m[23m 0, 0, 0, 0, 0, 0, 0, 1, 1, ~
+$ TOTAL.UNITS                    [3m[38;5;246m<int>[39m[23m 5, 10, 6, 8, 24, 10, 24, 4,~
+$ LAND.SQUARE.FEET               [3m[38;5;246m<dbl>[39m[23m 1633, 2272, 2369, 1750, 448~
+$ GROSS.SQUARE.FEET              [3m[38;5;246m<dbl>[39m[23m 6440, 6794, 4615, 4226, 185~
+$ YEAR.BUILT                     [3m[38;5;246m<int>[39m[23m 1900, 1913, 1900, 1920, 192~
+$ TAX.CLASS.AT.TIME.OF.SALE      [3m[38;5;246m<fct>[39m[23m 2, 2, 2, 2, 2, 2, 2, 2, 2, ~
+$ BUILDING.CLASS.AT.TIME.OF.SALE [3m[38;5;246m<fct>[39m[23m C2, C4, C2, C4, D9, D1, C6,~
+$ SALE.PRICE                     [3m[38;5;246m<dbl>[39m[23m 6625000, 3936272, 8000000, ~
+$ SALE.DATE                      [3m[38;5;246m<dttm>[39m[23m 2017-07-19, 2016-09-23, 20~"
+"1",""
+"1","
+"

@@ -1,0 +1,37 @@
+"0","library(dplyr)"
+"0",""
+"0","property <- read.csv(""data_input/nyc.csv"")"
+"0","glimpse(property)"
+"1","Rows: 84,548"
+"1",""
+"1","
+"
+"1","Columns: 22"
+"1",""
+"1","
+"
+"1","$ X                              [3m[38;5;246m<int>[39m[23m 4, 5, 6, 7, 8, 9, 10, 11, 1~
+$ BOROUGH                        [3m[38;5;246m<int>[39m[23m 1, 1, 1, 1, 1, 1, 1, 1, 1, ~
+$ NEIGHBORHOOD                   [3m[38;5;246m<chr>[39m[23m ""ALPHABET CITY"", ""ALPHABET ~
+$ BUILDING.CLASS.CATEGORY        [3m[38;5;246m<chr>[39m[23m ""07 RENTALS - WALKUP APARTM~
+$ TAX.CLASS.AT.PRESENT           [3m[38;5;246m<chr>[39m[23m ""2A"", ""2"", ""2"", ""2B"", ""2A"",~
+$ BLOCK                          [3m[38;5;246m<int>[39m[23m 392, 399, 399, 402, 404, 40~
+$ LOT                            [3m[38;5;246m<int>[39m[23m 6, 26, 39, 21, 55, 16, 32, ~
+$ EASE.MENT                      [3m[38;5;246m<lgl>[39m[23m NA, NA, NA, NA, NA, NA, NA,~
+$ BUILDING.CLASS.AT.PRESENT      [3m[38;5;246m<chr>[39m[23m ""C2"", ""C7"", ""C7"", ""C4"", ""C2~
+$ ADDRESS                        [3m[38;5;246m<chr>[39m[23m ""153 AVENUE B"", ""234 EAST 4~
+$ APARTMENT.NUMBER               [3m[38;5;246m<chr>[39m[23m "" "", "" "", "" "", "" "", "" "", "" ~
+$ ZIP.CODE                       [3m[38;5;246m<int>[39m[23m 10009, 10009, 10009, 10009,~
+$ RESIDENTIAL.UNITS              [3m[38;5;246m<int>[39m[23m 5, 28, 16, 10, 6, 20, 8, 44~
+$ COMMERCIAL.UNITS               [3m[38;5;246m<int>[39m[23m 0, 3, 1, 0, 0, 0, 0, 2, 0, ~
+$ TOTAL.UNITS                    [3m[38;5;246m<int>[39m[23m 5, 31, 17, 10, 6, 20, 8, 46~
+$ LAND.SQUARE.FEET               [3m[38;5;246m<chr>[39m[23m ""1633"", ""4616"", ""2212"", ""22~
+$ GROSS.SQUARE.FEET              [3m[38;5;246m<chr>[39m[23m ""6440"", ""18690"", ""7803"", ""6~
+$ YEAR.BUILT                     [3m[38;5;246m<int>[39m[23m 1900, 1900, 1900, 1913, 190~
+$ TAX.CLASS.AT.TIME.OF.SALE      [3m[38;5;246m<int>[39m[23m 2, 2, 2, 2, 2, 2, 2, 2, 2, ~
+$ BUILDING.CLASS.AT.TIME.OF.SALE [3m[38;5;246m<chr>[39m[23m ""C2"", ""C7"", ""C7"", ""C4"", ""C2~
+$ SALE.PRICE                     [3m[38;5;246m<chr>[39m[23m ""6625000"", "" -  "", "" -  "", ~
+$ SALE.DATE                      [3m[38;5;246m<chr>[39m[23m ""2017-07-19 00:00:00"", ""201~"
+"1",""
+"1","
+"

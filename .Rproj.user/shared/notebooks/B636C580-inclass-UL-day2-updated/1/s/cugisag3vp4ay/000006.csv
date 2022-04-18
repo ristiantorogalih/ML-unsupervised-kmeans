@@ -1,0 +1,6 @@
+"0","RNGkind(sample.kind = ""Rounding"")"
+"0","set.seed(100)"
+"0",""
+"0","par(mfrow=c(1,2))"
+"0","x <- runif(100)"
+"0","plot(x=x, y=runif(100), pch=19, cex=0.5, xlim=c(-0.5, 1.5), ylim=c(-0.5, 1.5), main=""Blind Tasting"", xlab=""wine age"", ylab=""score"")"

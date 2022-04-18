@@ -1,0 +1,6 @@
+"0","ppt_100 <- ppt %>% "
+"0","  head(100)"
+"0",""
+"0","ppt_100_pca <- prcomp(ppt_100, scale = T)"
+"0",""
+"0","biplot(ppt_100_pca, scale = F, cex = 0.6)"

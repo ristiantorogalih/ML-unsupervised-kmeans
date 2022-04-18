@@ -1,0 +1,4 @@
+"0","# PCA using FactoMineR"
+"0","library(FactoMineR)"
+"0",""
+"0","loan_pca <- PCA(X=loan_clean, scale.unit=T, quali.sup=qualivar,  graph=F, ncp=8)"

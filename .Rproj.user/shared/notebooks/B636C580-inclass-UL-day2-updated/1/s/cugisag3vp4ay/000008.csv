@@ -1,0 +1,1 @@
+"0","plot(x=x, y=x+runif(100, -0.1, 0.1), pch=19, cex=0.5, xlim=c(-0.5, 1.5), ylim=c(-0.5, 1.5), main=""Logistic Machinery"", xlab=""temperature"", ylab=""pressure"")"

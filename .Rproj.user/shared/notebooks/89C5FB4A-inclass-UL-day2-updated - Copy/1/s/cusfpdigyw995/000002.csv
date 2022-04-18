@@ -1,0 +1,2 @@
+"0","ppt <- property_clean %>% "
+"0","  select_if(is.numeric)"

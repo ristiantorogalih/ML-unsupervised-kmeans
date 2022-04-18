@@ -1,0 +1,2 @@
+"0","# PCA & Visualization"
+"0","fancy_biplot(prcomp(USArrests, scale = T))"

@@ -1,0 +1,2 @@
+"0","library(factoextra)"
+"0","fviz_contrib(X = ppt_100_pca, axes = 1, choice = ""var"")"

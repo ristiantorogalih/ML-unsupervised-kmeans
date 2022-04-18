@@ -1,0 +1,38 @@
+"0","loan_clean1<-loan%>%"
+"0","  mutate(as.factor(grdCtoA),"
+"0","         as.factor(verified),"
+"0","         as.factor(not_paid))"
+"0",""
+"0","#atau"
+"0","loan_clean<-loan%>%"
+"0","  mutate_at(.vars = c(""not_paid"", ""verified"", ""grdCtoA""),as.factor)"
+"0",""
+"0",""
+"0","glimpse(loan_clean)"
+"1","Rows: 1,556"
+"1",""
+"1","
+"
+"1","Columns: 16"
+"1",""
+"1","
+"
+"1","$ initial_list_status [3m[38;5;246m<fct>[39m[23m w, f, w, w, w, w, w, w, w, w, w, w, w,~
+$ purpose             [3m[38;5;246m<fct>[39m[23m debt_consolidation, debt_consolidation~
+$ int_rate            [3m[38;5;246m<dbl>[39m[23m 14.08, 9.44, 28.72, 13.59, 15.05, 10.9~
+$ installment         [3m[38;5;246m<dbl>[39m[23m 675.99, 480.08, 1010.30, 484.19, 476.3~
+$ annual_inc          [3m[38;5;246m<dbl>[39m[23m 156700, 50000, 25000, 175000, 109992, ~
+$ dti                 [3m[38;5;246m<dbl>[39m[23m 19.11, 19.35, 65.58, 12.60, 10.00, 5.1~
+$ verification_status [3m[38;5;246m<fct>[39m[23m Source Verified, Not Verified, Verifie~
+$ grade               [3m[38;5;246m<fct>[39m[23m C, B, F, C, C, B, C, B, D, D, F, C, C,~
+$ revol_bal           [3m[38;5;246m<int>[39m[23m 21936, 5457, 23453, 31740, 2284, 2016,~
+$ inq_last_12m        [3m[38;5;246m<int>[39m[23m 3, 1, 0, 0, 3, 5, 0, 1, 8, 1, 0, 12, 4~
+$ delinq_2yrs         [3m[38;5;246m<int>[39m[23m 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,~
+$ home_ownership      [3m[38;5;246m<fct>[39m[23m MORTGAGE, RENT, OWN, MORTGAGE, MORTGAG~
+$ not_paid            [3m[38;5;246m<fct>[39m[23m 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0,~
+$ log_inc             [3m[38;5;246m<dbl>[39m[23m 11.962088, 10.819778, 10.126631, 12.07~
+$ verified            [3m[38;5;246m<fct>[39m[23m 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1,~
+$ grdCtoA             [3m[38;5;246m<fct>[39m[23m 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0,~"
+"1",""
+"1","
+"

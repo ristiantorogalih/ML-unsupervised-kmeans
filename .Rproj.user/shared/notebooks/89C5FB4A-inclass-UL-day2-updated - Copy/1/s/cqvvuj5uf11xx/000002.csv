@@ -1,0 +1,5 @@
+"0","plot.PCA(x = loan_pca, # obj PCA"
+"0","         choix = ""ind"", # pilihan, kalau mau liat per observasi pakai ind"
+"0","         select = ""contrib 5"", # untuk identifikasi 5 outlier terluar"
+"0","         habillage = ""purpose"", # untuk mewarnai titik observasi (ditulis index/nama kolom)"
+"0","         invisible = ""quali"") # untuk menghilangkan garis panah "
